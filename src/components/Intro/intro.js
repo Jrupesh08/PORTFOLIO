@@ -24,7 +24,7 @@ function Intro() {
 
        <Link></Link>
 
-<a  href="https://drive.google.com/file/d/1DOJfJcMan9dEeegxbJk8a0o9d9VU-o3V/view" target="_blank" rel="noopener  noreferrer ">
+<a  href="https://drive.google.com/file/d/1DOJfJcMan9dEeegxbJk8a0o9d9VU-o3V/view?usp=drive_link" target="_blank" rel="noopener  noreferrer ">
 <button type="CV" value="CV" className="submitBtn">
 <img src={hireme} alt="Hire Me" className="hireme" /> Resume
            
